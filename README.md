@@ -1,10 +1,12 @@
-# Analysis_of_Dairy_Product
-I assumed the role of a data analyst for a dairy association in India that looks out for the welfare, expansion, and advancement of the dairy industry in the region of study.
+# Analysis of Dairy Products using SQL
+
+![](dairy_farm_cow_pic)
+I assumed the role of a data analyst for a dairy association in India that looks out for the welfare, expansion, and advancement of the dairy industry in the study region.
 ##  Problem Statement
 
-The dairy association is keen on knowing how its member dairy processors(brands) are performing on the market and what kinds of dairy products consumers like. To get insights into product demand, market dynamics, and possible areas for product diversification, a thorough data analysis of dairy product sales and trends is required.
+The dairy association is keen on knowing how its member dairy processors(brands) perform on the market and what kinds of dairy products consumers like. To get insights into product demand, market dynamics, and possible areas for product diversification, a thorough data analysis of dairy product sales and trends is required.
 
-The dairy association also aims to curb financial losses among its member processors(brands) due to wastage by optimising inventory management for dairy products. Analysis of inventory levels, production cycles, and demand trends for different dairy products is essential to identify gaps.
+The dairy association also aims to curb financial losses among its member processors(brands) due to wastage by optimising inventory management for dairy products. Analysis of inventory levels, production cycles, and demand trends for dairy products is essential to identify gaps.
 
 The specific objectives are to determine;
 1) most popular dairy product
